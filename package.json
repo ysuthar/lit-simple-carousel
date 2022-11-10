@@ -1,5 +1,5 @@
 {
-  "name": "@lit/lit-starter-ts",
+  "name": "simple-web-carousel-lit",
   "private": true,
   "version": "1.0.4",
   "description": "A simple web component",
